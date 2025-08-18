@@ -130,18 +130,20 @@
 [data-theme='sand'] {
 	/* Theme Colors */
 	/* Theme Colors */
-	--theme-primary: #e38a20;
-	--theme-primary-hover: #eb870f;
-	--theme-on-primary: hsl(0, 0%, 100%);
+	--theme-primary: #8C1007;
+	--theme-primary-hover: #730d07;
+	--theme-on-primary: #ffffff;
 
-	--theme-bg: #fffffe;
-	--theme-on-bg: #5e4536;
+	--theme-bg: #121212;
+	--theme-on-bg: #f5eaea;
 
-	--theme-surface-1: #ffecd9;
-	--theme-on-surface-1: #5e4536;
+	--theme-surface-1: #2b2b2b;
+	--theme-on-surface-1: #f0d6d6;
 
-	--theme-surface-2: #6a4d34;
+	--theme-surface-2: #2a0a08;
 	--theme-on-surface-2: #ffffff;
 
 	--theme-button-border-radius: 0.5rem;
+	--theme-font-family-serif: "Host Grotesk", sans-serif;
+	--theme-font-family-sans-serif: "Sansation", sans-serif;
 }
